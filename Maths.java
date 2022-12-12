@@ -8,7 +8,9 @@ import java.util.Scanner;
         int b = sc.nextInt();
         int sum = a+b;
         int mul = a*b;
+        int sub = a-b;
         System.out.println("SUM : "+sum);
         System.out.println("MULTIPLE : "+ mul);
+        System.out.println("SUBTRACT : "+ sub);
     }
 }
